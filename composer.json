@@ -1,0 +1,13 @@
+{
+    "name": "anne/projet_toto",
+    "description": "list students",
+    "authors": [
+        {
+            "name": "anne schmutz",
+            "email": "schmutzanne@yahoo.fr"
+        }
+    ],
+    "require": {
+        "whatsma/zodiacsign": "dev-master"
+    }
+}
